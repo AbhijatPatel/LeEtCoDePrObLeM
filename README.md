@@ -12,10 +12,15 @@ Solve Leetcode Problem.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
