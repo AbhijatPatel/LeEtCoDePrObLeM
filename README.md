@@ -23,4 +23,12 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
