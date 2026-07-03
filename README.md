@@ -7,6 +7,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
