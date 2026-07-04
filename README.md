@@ -25,6 +25,7 @@ Solve Leetcode Problem.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ Solve Leetcode Problem.
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -46,6 +48,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -53,6 +56,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -75,4 +79,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
