@@ -30,6 +30,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
