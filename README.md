@@ -10,6 +10,7 @@ Solve Leetcode Problem.
 | [0009-palindrome-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@ Solve Leetcode Problem.
 | [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -38,6 +40,7 @@ Solve Leetcode Problem.
 | [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
@@ -50,6 +53,7 @@ Solve Leetcode Problem.
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
@@ -58,6 +62,7 @@ Solve Leetcode Problem.
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -83,4 +88,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
