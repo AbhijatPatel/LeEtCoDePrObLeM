@@ -42,6 +42,7 @@ Solve Leetcode Problem.
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -63,6 +64,7 @@ Solve Leetcode Problem.
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
