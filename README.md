@@ -14,6 +14,7 @@ Solve Leetcode Problem.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1009-complement-of-base-10-integer) |
@@ -33,6 +34,7 @@ Solve Leetcode Problem.
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
