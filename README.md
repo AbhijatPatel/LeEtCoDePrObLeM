@@ -33,6 +33,7 @@ Solve Leetcode Problem.
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -41,12 +42,14 @@ Solve Leetcode Problem.
 | ------- |
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
