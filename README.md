@@ -46,6 +46,7 @@ Solve Leetcode Problem.
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,6 +61,7 @@ Solve Leetcode Problem.
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -70,6 +72,7 @@ Solve Leetcode Problem.
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
@@ -88,6 +91,7 @@ Solve Leetcode Problem.
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,4 +105,5 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
