@@ -35,6 +35,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ Solve Leetcode Problem.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
@@ -111,4 +113,8 @@ Solve Leetcode Problem.
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
