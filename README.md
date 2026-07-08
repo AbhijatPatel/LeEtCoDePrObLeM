@@ -43,6 +43,7 @@ Solve Leetcode Problem.
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
@@ -137,4 +138,12 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
