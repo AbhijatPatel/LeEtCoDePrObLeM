@@ -60,6 +60,7 @@ Solve Leetcode Problem.
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -104,6 +105,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
@@ -128,6 +130,7 @@ Solve Leetcode Problem.
 | [0053-maximum-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -139,10 +142,12 @@ Solve Leetcode Problem.
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
