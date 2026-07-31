@@ -30,6 +30,7 @@ Solve Leetcode Problem.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
@@ -37,6 +38,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -138,6 +140,7 @@ Solve Leetcode Problem.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
