@@ -34,6 +34,7 @@ Solve Leetcode Problem.
 | [0053-maximum-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Solve Leetcode Problem.
 | [0189-rotate-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +146,7 @@ Solve Leetcode Problem.
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -159,6 +162,7 @@ Solve Leetcode Problem.
 | [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
