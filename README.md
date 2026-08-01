@@ -75,6 +75,7 @@ Solve Leetcode Problem.
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
+| [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Solve Leetcode Problem.
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -163,6 +165,7 @@ Solve Leetcode Problem.
 | [0073-set-matrix-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
