@@ -107,6 +107,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
+| [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,4 +171,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
