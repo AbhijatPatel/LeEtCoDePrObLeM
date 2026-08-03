@@ -41,6 +41,7 @@ Solve Leetcode Problem.
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0027-remove-element) |
@@ -107,6 +108,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
@@ -177,4 +179,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
