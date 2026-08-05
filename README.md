@@ -91,6 +91,7 @@ Solve Leetcode Problem.
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -106,6 +107,7 @@ Solve Leetcode Problem.
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -115,6 +117,7 @@ Solve Leetcode Problem.
 | [0014-longest-common-prefix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -153,6 +156,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -204,4 +208,12 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
