@@ -26,6 +26,7 @@ Solve Leetcode Problem.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -216,4 +217,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
