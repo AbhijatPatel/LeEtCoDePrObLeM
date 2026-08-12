@@ -89,6 +89,7 @@ Solve Leetcode Problem.
 | [0001-two-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
@@ -147,6 +148,7 @@ Solve Leetcode Problem.
 | [0031-next-permutation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0160-intersection-of-two-linked-lists) |
@@ -235,6 +237,7 @@ Solve Leetcode Problem.
 | [0002-add-two-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0206-reverse-linked-list) |
@@ -245,5 +248,6 @@ Solve Leetcode Problem.
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
