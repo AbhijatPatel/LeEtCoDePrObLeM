@@ -83,6 +83,7 @@ Solve Leetcode Problem.
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
@@ -212,6 +213,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -254,6 +256,7 @@ Solve Leetcode Problem.
 | [0237-delete-node-in-a-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -264,4 +267,16 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
