@@ -1,48 +1,35 @@
 class Solution {
 public:
-int myAtoi(string s)
-{
-    int i = 0;
-    int n = s.size();
+        int fun(string s,int i, int sign, long long num){
+    if(i >= s.size() || !isdigit (s[i]))
+    return num*sign;
 
-    while(i < n && s[i] == ' ')
-    {
-        i++;
-    }
+    num = num * 10 + (s[i]-'0');
 
-    int sign = 1;
+    if(num*sign > INT_MAX)
+    return INT_MAX;
 
-    if(i < n && s[i] == '-')
-    {
-        sign = -1;
-        i++;
-    }
-    else if(i < n && s[i] == '+')
-    {
-        i++;
-    }
+    if(num*sign < INT_MIN)
+    return INT_MIN;
 
-    long long ans = 0;
-
-    while(i < n && isdigit(s[i]))
-    {
-        int digit = s[i] - '0';
-
-        ans = ans * 10 + digit;
-
-        if(sign == 1 && ans > INT_MAX)
-        {
-            return INT_MAX;
-        }
-
-        if(sign == -1 && -ans < INT_MIN)
-        {
-            return INT_MIN;
-        }
-
-        i++;
-    }
-
-    return sign * ans;
+    return fun(s,i+1,sign,num);
 }
+    int myAtoi(string s) {
+        int n = s.size();
+        int i = 0;
+
+        while(i < n && s[i] == ' ')
+        i++;
+
+        int sign = 1;
+        if(i < n && s[i] == '-'){
+            sign = -1;
+            i++;
+        }
+        else if(i < n && (s[i] == '+')){
+            sign = 1;
+            i++;
+        }
+        return fun(s,i,sign,0);
+    }
 };
