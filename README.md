@@ -27,6 +27,7 @@ Solve Leetcode Problem.
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Solve Leetcode Problem.
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
@@ -114,6 +116,7 @@ Solve Leetcode Problem.
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
@@ -207,6 +210,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
 |  |
 | ------- |
