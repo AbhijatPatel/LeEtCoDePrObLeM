@@ -95,6 +95,7 @@ Solve Leetcode Problem.
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -223,6 +224,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0054-spiral-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
