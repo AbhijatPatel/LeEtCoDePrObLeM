@@ -17,6 +17,7 @@ Solve Leetcode Problem.
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -158,6 +159,7 @@ Solve Leetcode Problem.
 | [0796-rotate-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +226,7 @@ Solve Leetcode Problem.
 | [0011-container-with-most-water](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 ## Matrix
 |  |
 | ------- |
@@ -331,4 +334,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0051-n-queens) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
