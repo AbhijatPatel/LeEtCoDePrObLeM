@@ -16,6 +16,7 @@ Solve Leetcode Problem.
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -102,6 +103,7 @@ Solve Leetcode Problem.
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -168,6 +170,7 @@ Solve Leetcode Problem.
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +205,7 @@ Solve Leetcode Problem.
 | [0131-palindrome-partitioning](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 ## Counting
 |  |
 | ------- |
@@ -337,5 +341,14 @@ Solve Leetcode Problem.
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
