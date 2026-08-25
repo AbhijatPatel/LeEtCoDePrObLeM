@@ -107,6 +107,7 @@ Solve Leetcode Problem.
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Solve Leetcode Problem.
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
