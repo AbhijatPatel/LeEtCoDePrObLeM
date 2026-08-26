@@ -164,6 +164,7 @@ Solve Leetcode Problem.
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -259,6 +260,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
