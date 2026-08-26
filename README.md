@@ -166,6 +166,7 @@ Solve Leetcode Problem.
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,6 +278,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
