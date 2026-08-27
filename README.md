@@ -258,6 +258,7 @@ Solve Leetcode Problem.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -320,6 +321,7 @@ Solve Leetcode Problem.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -363,4 +365,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
