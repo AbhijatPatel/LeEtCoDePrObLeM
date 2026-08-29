@@ -109,6 +109,7 @@ Solve Leetcode Problem.
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,6 +154,7 @@ Solve Leetcode Problem.
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0977-squares-of-a-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String
 |  |
 | ------- |
@@ -398,4 +400,8 @@ Solve Leetcode Problem.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0503-next-greater-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
