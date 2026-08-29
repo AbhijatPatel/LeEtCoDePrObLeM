@@ -97,6 +97,7 @@ Solve Leetcode Problem.
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0977-squares-of-a-sorted-array) |
@@ -273,6 +274,7 @@ Solve Leetcode Problem.
 | [0232-implement-queue-using-stacks](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
@@ -395,4 +397,5 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
