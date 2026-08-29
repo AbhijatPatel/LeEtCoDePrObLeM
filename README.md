@@ -96,6 +96,7 @@ Solve Leetcode Problem.
 | [0414-third-maximum-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@ Solve Leetcode Problem.
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
@@ -270,6 +272,7 @@ Solve Leetcode Problem.
 | [0225-implement-stack-using-queues](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1472-design-browser-history) |
@@ -388,4 +391,8 @@ Solve Leetcode Problem.
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
