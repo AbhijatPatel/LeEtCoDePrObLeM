@@ -110,6 +110,7 @@ Solve Leetcode Problem.
 | [1480-running-sum-of-1d-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -255,6 +256,7 @@ Solve Leetcode Problem.
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
