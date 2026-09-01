@@ -32,6 +32,7 @@ Solve Leetcode Problem.
 | [0287-find-the-duplicate-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Solve Leetcode Problem.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@ Solve Leetcode Problem.
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -274,6 +277,7 @@ Solve Leetcode Problem.
 | [0079-word-search](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1901-find-a-peak-element-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -446,4 +450,8 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
