@@ -106,6 +106,7 @@ Solve Leetcode Problem.
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
@@ -148,6 +149,7 @@ Solve Leetcode Problem.
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
@@ -332,6 +334,7 @@ Solve Leetcode Problem.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
