@@ -152,6 +152,7 @@ Solve Leetcode Problem.
 | [0904-fruit-into-baskets](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -191,6 +192,7 @@ Solve Leetcode Problem.
 | [0796-rotate-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -337,6 +339,7 @@ Solve Leetcode Problem.
 | [0904-fruit-into-baskets](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Heap (Priority Queue)
