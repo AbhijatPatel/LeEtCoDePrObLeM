@@ -88,6 +88,7 @@ Solve Leetcode Problem.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0189-rotate-array) |
@@ -278,6 +279,7 @@ Solve Leetcode Problem.
 | [0033-search-in-rotated-sorted-array](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0268-missing-number) |
