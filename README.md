@@ -202,6 +202,7 @@ Solve Leetcode Problem.
 | [0424-longest-repeating-character-replacement](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -264,6 +265,7 @@ Solve Leetcode Problem.
 | [0152-maximum-product-subarray](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1872-stone-game-viii) |
 ## Counting
 |  |
