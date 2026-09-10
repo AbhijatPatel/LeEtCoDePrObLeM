@@ -441,6 +441,7 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -496,4 +497,12 @@ Solve Leetcode Problem.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
