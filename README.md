@@ -49,6 +49,7 @@ Solve Leetcode Problem.
 | [0231-power-of-two](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Solve Leetcode Problem.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3875-construct-uniform-parity-array-i) |
@@ -168,6 +170,7 @@ Solve Leetcode Problem.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -468,6 +471,7 @@ Solve Leetcode Problem.
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhijatPatel/LeEtCoDePrObLeM/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Monotonic Stack
